@@ -1,11 +1,11 @@
 require 'redmine'
-require 'debeso_wikimacro'
+require 'quoteit_wikimacro'
 
-Redmine::Plugin.register :redmine_debeso_wiki_macro do
-  name 'Redmine Debeso Wiki Macro plugin'
-  author 'suer'
-  description 'Redmine Debeso Wiki Macro plugin'
-  version '0.0.1'
-  url 'http://github.com/suer/redmine_debeso_wiki_macro/'
-  author_url 'http://d.hatena.ne.jp/suer'
+Redmine::Plugin.register :redmine_quoteit_wiki_macro do
+  name 'Redmine Quoteit Wiki Macro plugin'
+  author 'mzp'
+  description 'Redmine Quoteit Wiki Macro plugin'
+  version '0.1.0'
+  url 'http://github.com/mzp/redmine_quoteit_wiki_macro/'
+  author_url 'http://d.hatena.ne.jp/mzp'
 end
