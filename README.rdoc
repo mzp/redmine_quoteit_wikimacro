@@ -1,3 +1,0 @@
-= quoteit_wiki_macro
-
-Description goes here
